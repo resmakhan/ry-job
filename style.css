@@ -1,0 +1,59 @@
+body{
+ 
+}
+.moto{
+   background-color: rgb(59, 56, 77);
+    
+    padding: 40px;
+    margin: 0;
+    text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: box;
+}
+h1{
+    color: #ff9900;
+ 
+}
+h4{
+color:rgb(61, 130, 194) ;
+
+}
+.prothom{
+    color: white;
+
+}
+.Fast{
+  background-color: rgb(146, 90, 136);
+  color: white;
+  padding: 40px;
+  margin: 0px;
+  text-align: center;
+  
+}
+
+.one{
+		color:green;
+  text-decoration:none;
+    transition: 1s;
+    font-size: larger;
+
+}
+
+.two{
+		color:rgb(219, 173, 22);
+  text-decoration:none;
+    transition: 1s;
+    font-size: larger;
+}
+.three{
+		color:grey;
+  text-decoration:none;
+transition:1s;
+font-size: larger;}
+	
+footer{
+  background-color:rgb(59, 56, 80);
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
